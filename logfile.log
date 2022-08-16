@@ -9,3 +9,25 @@
 2022-08-13 03:28:55,634 INFO  [Log] Login Completed 
 2022-08-13 03:28:55,846 INFO  [Log] Logout Completed 
 2022-08-13 03:28:56,649 INFO  [Log] Application Closed 
+2022-08-14 19:03:11,338 INFO  [Log] Application Opened 
+2022-08-14 19:03:12,201 INFO  [Log] Login Completed 
+2022-08-14 19:03:12,612 INFO  [Log] Logout Completed 
+2022-08-14 19:03:13,735 INFO  [Log] Application Closed 
+2022-08-14 19:03:17,958 INFO  [Log] Application Opened 
+2022-08-14 19:03:18,732 INFO  [Log] Login Completed 
+2022-08-14 19:03:18,783 INFO  [Log] Enter into Frame 
+2022-08-14 19:03:21,239 INFO  [Log] New Employee Added 
+2022-08-14 19:03:21,256 INFO  [Log] Exit from Frame 
+2022-08-14 19:03:21,596 INFO  [Log] Logout Completed 
+2022-08-14 19:03:22,736 INFO  [Log] Application Closed 
+2022-08-16 15:39:01,329 INFO  [Log] Application Opened 
+2022-08-16 15:39:02,259 INFO  [Log] Login Completed 
+2022-08-16 15:39:02,622 INFO  [Log] Logout Completed 
+2022-08-16 15:39:03,865 INFO  [Log] Application Closed 
+2022-08-16 15:39:07,968 INFO  [Log] Application Opened 
+2022-08-16 15:39:08,702 INFO  [Log] Login Completed 
+2022-08-16 15:39:08,752 INFO  [Log] Enter into Frame 
+2022-08-16 15:39:11,025 INFO  [Log] New Employee Added 
+2022-08-16 15:39:11,048 INFO  [Log] Exit from Frame 
+2022-08-16 15:39:11,389 INFO  [Log] Logout Completed 
+2022-08-16 15:39:12,698 INFO  [Log] Application Closed 
